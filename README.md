@@ -2,7 +2,9 @@
 
 ## Sources
 ### [fiver.com](https://fiver.com)
-[saadbin08](https://www.fiverr.com/saadbin08/)
+#### [saadbin08](https://www.fiverr.com/saadbin08/)
+- cleaned up orgional logo and made SVGs, buissness cards, etc
+- If I need any more graphic design work, use him!
 
 ### initial logo
 [chatGPT - logo y marca](https://chatgpt.com/g/g-p-676af1207ee88191b136772cd931f695-los-limones/c/67415deb-8674-8008-93fd-2454225341ad)
