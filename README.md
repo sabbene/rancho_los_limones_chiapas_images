@@ -1,8 +1,11 @@
 # rancho_los_limones_chiapas_images
 
 ## Sources
-### fiver.com
-https://www.fiverr.com/saadbin08/
+### [fiver.com](https://fiver.com)
+[saadbin08](https://www.fiverr.com/saadbin08/)
+
+### initial logo
+[chatGPT - logo y marca](https://chatgpt.com/g/g-p-676af1207ee88191b136772cd931f695-los-limones/c/67415deb-8674-8008-93fd-2454225341ad)
 
 ## Editers
 #### GIMP
