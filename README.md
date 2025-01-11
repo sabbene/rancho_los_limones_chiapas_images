@@ -1,1 +1,1 @@
-# ranco_los_limones_chiapas_images
+# rancho_los_limones_chiapas_images
