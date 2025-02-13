@@ -24,3 +24,17 @@
 
 ### [canva](https://vanva.com)
 [buisness cards](https://www.canva.com/design/DAGb32I9qGU/GRcwg_NifI9Kh7SZIxJEuQ/edit?utm_content=DAGb32I9qGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## PNGs
+### Logo with Name
+- Open file with GIMP
+- Edit text box with name
+- Enable "upper inner path", from paths tab.
+- Right click text layer and select "Text along path"
+- Go to path tab.
+- Rename text path to name.
+- Right click name path, and select "path to selection"
+- create new tab
+- Use fill tool to color in selection
+- Rotate text until it is in the right spot.  First rotate, change rotation point to middle of logo.  Second rotation rotaate from bottom of text to align properly.
+- Export as PNG
